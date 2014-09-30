@@ -14,7 +14,7 @@ class Node:
     self.coins.append(a)
     #sleep(0.5)
     for i in range(500000):
-      a = 1 + 2**2;
+      a = 1 + 2**2
 
 
 
