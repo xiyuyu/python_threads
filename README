@@ -1,0 +1,11 @@
+test_threads_using_threads
+Node is an inherited class from threading.Thread
+Hierarchy is a class which contains a set of Nodes
+We use threads to test whether multithreads could 
+improve effciency
+When sleep is used, the speed is improved signifi-
+cantly. However, when computations is dense, the 
+speed is even slowed down using threads
+
+test_threads_without_threads
+Compare. Used to test the speed without using threads
