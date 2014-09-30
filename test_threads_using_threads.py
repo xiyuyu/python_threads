@@ -29,7 +29,7 @@ class Node(threading.Thread):
       #sleep(0.5)
       
       for i in range(500000):
-        a = 1 + 2**2;
+        a = 1 + 2**2
       
       self.learning_queue.task_done()
     self.learning_queue.task_done()
